@@ -32,3 +32,9 @@ target.write("\n")
 
 print("And finally, we close it.")
 target.close()
+
+
+# filename = input("输入你要读取的文件名：")
+# txt = open(filename)
+# print(txt.read())
+# txt.close()
